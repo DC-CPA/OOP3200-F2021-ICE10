@@ -1,3 +1,10 @@
+
+/**
+ * @authors  Katherine Bellman - 100325825
+ * @file    OOP3200 - Fall 2021 - Java ICE 9
+ * @date    November 23rd, 2021
+ */
+
 package ca.durhamcollege;
 
 import java.util.Vector;
@@ -133,7 +140,7 @@ public class Vector2D
     @Override
     public String toString()
     {
-        return "(" + x + ", " + y + "}";
+        return "(" + x + ", " + y + ")";
     }
 
     // STATIC METHODS
